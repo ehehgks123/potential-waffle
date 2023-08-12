@@ -1,0 +1,9 @@
+<? version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="limitAdTracking" value="2" />
+    <int name="adrty" value="0" />
+    <int name="birthday_state" value="1" />
+    <boolean name="agreement_accepted_kr" value="true" />
+    <string name="inquiryCodeSave">780f52e2e</string>
+    <long name="adlts" value="1691800341" />
+</map>
